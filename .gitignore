@@ -1,0 +1,19 @@
+# node.js
+#
+node_modules/
+yarn.lock
+*.lpcm
+*.wav
+package-lock.json
+*.scp
+err.log
+out.log
+config/dbconfig.json
+api/swagger.json
+api/swagger.yaml
+models/index.js
+*.apk
+logs/
+*.log
+*.mp4
+*.zip
